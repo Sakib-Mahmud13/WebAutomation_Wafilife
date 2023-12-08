@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-06T22:23:04 BDT" name="ORANGE" finished-at="2023-12-06T22:27:07 BDT" duration-ms="242824">
+    <groups>
+    </groups>
+    <test started-at="2023-12-06T22:23:04 BDT" name="Test" finished-at="2023-12-06T22:27:07 BDT" duration-ms="242824">
+      <class name="com.sakib.it.tests.CheckOutTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.sakib.it.tests.CheckOutTest@304bb45b]" started-at="2023-12-06T22:26:08 BDT" name="start" finished-at="2023-12-06T22:26:20 BDT" duration-ms="11730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="viewTest()[pri:0, instance:com.sakib.it.tests.CheckOutTest@304bb45b]" started-at="2023-12-06T22:26:20 BDT" name="viewTest" finished-at="2023-12-06T22:27:06 BDT" duration-ms="46523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewTest -->
+        <test-method is-config="true" signature="report()[pri:0, instance:com.sakib.it.tests.CheckOutTest@304bb45b]" started-at="2023-12-06T22:27:06 BDT" name="report" finished-at="2023-12-06T22:27:07 BDT" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+      </class> <!-- com.sakib.it.tests.CheckOutTest -->
+      <class name="com.sakib.it.tests.SelectAnyAuthorTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.sakib.it.tests.SelectAnyAuthorTest@7fd50002]" started-at="2023-12-06T22:24:47 BDT" name="start" finished-at="2023-12-06T22:24:59 BDT" duration-ms="11990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="selectAnyAuthorTest()[pri:0, instance:com.sakib.it.tests.SelectAnyAuthorTest@7fd50002]" started-at="2023-12-06T22:24:59 BDT" name="selectAnyAuthorTest" finished-at="2023-12-06T22:25:21 BDT" duration-ms="22569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectAnyAuthorTest -->
+        <test-method is-config="true" signature="report()[pri:0, instance:com.sakib.it.tests.SelectAnyAuthorTest@7fd50002]" started-at="2023-12-06T22:25:21 BDT" name="report" finished-at="2023-12-06T22:25:22 BDT" duration-ms="147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+      </class> <!-- com.sakib.it.tests.SelectAnyAuthorTest -->
+      <class name="com.sakib.it.tests.ViewAnyBookTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.sakib.it.tests.ViewAnyBookTest@2a693f59]" started-at="2023-12-06T22:23:36 BDT" name="start" finished-at="2023-12-06T22:23:47 BDT" duration-ms="11332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="viewAnyBookTest()[pri:0, instance:com.sakib.it.tests.ViewAnyBookTest@2a693f59]" started-at="2023-12-06T22:23:47 BDT" name="viewAnyBookTest" finished-at="2023-12-06T22:24:23 BDT" duration-ms="36016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewAnyBookTest -->
+        <test-method is-config="true" signature="report()[pri:0, instance:com.sakib.it.tests.ViewAnyBookTest@2a693f59]" started-at="2023-12-06T22:24:23 BDT" name="report" finished-at="2023-12-06T22:24:23 BDT" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+      </class> <!-- com.sakib.it.tests.ViewAnyBookTest -->
+      <class name="com.sakib.it.tests.ClickMenuTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.sakib.it.tests.ClickMenuTest@3f4faf53]" started-at="2023-12-06T22:24:23 BDT" name="start" finished-at="2023-12-06T22:24:35 BDT" duration-ms="11509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="clickMenuTest()[pri:0, instance:com.sakib.it.tests.ClickMenuTest@3f4faf53]" started-at="2023-12-06T22:24:35 BDT" name="clickMenuTest" finished-at="2023-12-06T22:24:47 BDT" duration-ms="11711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickMenuTest -->
+        <test-method is-config="true" signature="report()[pri:0, instance:com.sakib.it.tests.ClickMenuTest@3f4faf53]" started-at="2023-12-06T22:24:47 BDT" name="report" finished-at="2023-12-06T22:24:47 BDT" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+      </class> <!-- com.sakib.it.tests.ClickMenuTest -->
+      <class name="com.sakib.it.tests.ClickOderTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.sakib.it.tests.ClickOderTest@533bda92]" started-at="2023-12-06T22:25:22 BDT" name="start" finished-at="2023-12-06T22:25:33 BDT" duration-ms="11627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="viewTest()[pri:0, instance:com.sakib.it.tests.ClickOderTest@533bda92]" started-at="2023-12-06T22:25:33 BDT" name="viewTest" finished-at="2023-12-06T22:26:08 BDT" duration-ms="34728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewTest -->
+        <test-method is-config="true" signature="report()[pri:0, instance:com.sakib.it.tests.ClickOderTest@533bda92]" started-at="2023-12-06T22:26:08 BDT" name="report" finished-at="2023-12-06T22:26:08 BDT" duration-ms="259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+      </class> <!-- com.sakib.it.tests.ClickOderTest -->
+      <class name="com.sakib.it.tests.VisitSiteTest">
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:com.sakib.it.tests.VisitSiteTest@302c971f]" started-at="2023-12-06T22:23:02 BDT" name="startBrowser" finished-at="2023-12-06T22:23:04 BDT" duration-ms="2210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method is-config="true" signature="start()[pri:0, instance:com.sakib.it.tests.VisitSiteTest@302c971f]" started-at="2023-12-06T22:23:04 BDT" name="start" finished-at="2023-12-06T22:23:25 BDT" duration-ms="21145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="visitsiteTest()[pri:0, instance:com.sakib.it.tests.VisitSiteTest@302c971f]" started-at="2023-12-06T22:23:25 BDT" name="visitsiteTest" finished-at="2023-12-06T22:23:36 BDT" duration-ms="10526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visitsiteTest -->
+        <test-method is-config="true" signature="report()[pri:0, instance:com.sakib.it.tests.VisitSiteTest@302c971f]" started-at="2023-12-06T22:23:36 BDT" name="report" finished-at="2023-12-06T22:23:36 BDT" duration-ms="433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.sakib.it.tests.VisitSiteTest@302c971f]" started-at="2023-12-06T22:27:07 BDT" name="close" finished-at="2023-12-06T22:27:07 BDT" duration-ms="303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.sakib.it.tests.VisitSiteTest -->
+    </test> <!-- Test -->
+  </suite> <!-- ORANGE -->
+</testng-results>
