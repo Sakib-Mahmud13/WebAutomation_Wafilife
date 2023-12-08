@@ -1,4 +1,4 @@
-## Web_Automation_Project_with_Page_Object_Model_(PMO)_Selenium_&_TestNG
+## Web_Automation_WafilifeProject_Selenium_&_TestNG
 Automate web interactions with islamicshopdk.com using Java. This project demonstrates the automation of various features of the popular online book retailer, selecting category, veiws anybook, any book  click the oder, shopping cart interactions,book cashout and more
 
 
@@ -20,17 +20,16 @@ Automate web interactions with islamicshopdk.com using Java. This project demons
 
 ## 🚀 Introduction
 
-Welcome to the Web Automation project for [https://islamicshopdk.com/). This project showcases web automation using Java for the popular online book retailer, boibazar.com.
+Welcome to the Web Automation project for [https://www.wafilife.com/). This project showcases web automation using Java for the popular online book retailer, boibazar.com.
 
 ## ✨ Features
 
 - ✅ Visit the whole website.
-- ✅  Select  ক্যাটেগরি from the Menu.
-- ✅ Scroll Down and Go to Next Page.
-- ✅ View any book.
+- ✅  Click  লেখক from the menu.
+- ✅  Select any Author.
+- ✅  View any Book Details.
 - ✅ Click অর্ডার করুন.
-- ✅ Click Go to Cart.
-- ✅ Click Checkout
+- ✅  Click অর্ডার সম্পন্ন করুন.
 
 ## 📁 Project Structure
 
@@ -50,7 +49,7 @@ To get started with this project, follow these steps:
 - Language: Java
 - Framework: TestNG.
 ### Pre Requisites
-- Open/install Java JDK 14 version on your PC
+- Open/install Java JDK 11 version on your PC
 - Install Maven on your PC
 - Install TestNG on your IDE
 - Install Eclipse/STS or any other IDE
