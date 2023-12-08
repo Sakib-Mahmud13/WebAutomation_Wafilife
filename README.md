@@ -1,5 +1,5 @@
 ## Web_Automation_WafilifeProject_Selenium_&_TestNG
-Automate web interactions with islamicshopdk.com using Java. This project demonstrates the automation of various features of the popular online book retailer, selecting category, veiws anybook, any book  click the oder, shopping cart interactions,book cashout and more
+Automate web interactions with wafilife.com using Java. This project demonstrates the automation of various features of the popular online book retailer, selecting menu, veiws anybook details, any book  click the oder, shopping oder succesful,book cashout and more
 
 
 
