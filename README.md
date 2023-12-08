@@ -20,7 +20,7 @@ Automate web interactions with wafilife.com using Java. This project demonstrate
 
 ## 🚀 Introduction
 
-Welcome to the Web Automation project for [https://www.wafilife.com/). This project showcases web automation using Java for the popular online book retailer, boibazar.com.
+Welcome to the Web Automation project for [https://www.wafilife.com/). This project showcases web automation using Java for the popular online book retailer, wafifile.com.
 
 ## ✨ Features
 
